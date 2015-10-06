@@ -14,6 +14,12 @@ Unlike an [earlier](https://github.com/illacceptanything/illacceptanything) simi
 - [ ] Release
 - [ ] Profit???
 
+## Get a butt lamp today!
+
+![Butt] (http://i.imgur.com/36Do9gD.gif)
+
+Why? Don't ask.
+
 ## Why?
 I'm interested in how random people can work on something together spontaneously. Let's see how this one works out... Feel free to use Issues, or the Wiki to communicate.
 
