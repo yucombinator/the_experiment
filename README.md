@@ -1,6 +1,13 @@
 # the_experiment
 A repository where anyone can contribute, and anything goes. Will this repo become a cool app? A terrible website? A dank meme? YOU get to decide the fate of this repository!
 
+I've laid down a sort of roadmap for this experiment... Not that you have to follow it.
+
+- [ ] Set up some sort of web framework
+- [ ] Ship code
+- [ ] Release
+- [ ] Profit???
+
 ## Why?
 I'm interested in how random people can work on something together spontaneously. Let's see how this one works out... Feel free to use Issues, or the Wiki to communicate.
 
