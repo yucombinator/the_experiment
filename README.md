@@ -1,6 +1,8 @@
 # the_experiment
 A repository where anyone can contribute, and anything goes. Will this repo become a cool app? A terrible website? A dank meme? YOU get to decide the fate of this repository!
 
+![Dank](http://i2.kym-cdn.com/photos/images/newsfeed/001/002/010/62e.gif)
+
 Unlike an [earlier](https://github.com/illacceptanything/illacceptanything) similar experiment, let's actually try to ship something... usable! I don't want to give too many instructions, but I've laid down a sort of roadmap for this experiment below... Not that you have to follow it.
 
 - [ ] Set up some sort of web framework
