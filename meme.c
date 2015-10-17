@@ -2,6 +2,8 @@
 // main is a dank meme, not a function.
 // dank meme ay.
 
+// Why is this soo dank????!!!
+
 const int main[] = {
     -443987883, 440, 113408, -1922629632,
     4149, 899584, 84869120, 15544,
