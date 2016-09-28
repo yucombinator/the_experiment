@@ -9,16 +9,17 @@ Drop a commit like it's hot!
 
 Unlike an [earlier](https://github.com/illacceptanything/illacceptanything) similar experiment, let's actually try to ship something... usable! I don't want to give too many instructions, but I've laid down a sort of roadmap for this experiment below... Not that you have to follow it.
 
-- [ ] Set up some sort of web framework
-- [ ] Ship code
-- [ ] Release
-- [ ] Profit???
+-  Set up some sort of web framework
+-  Ship code
+-  Release
+-  Profit??? (maybe!)
 
 ## Get a butt lamp today!
 
 ![Butt] (http://i.imgur.com/36Do9gD.gif)
 
-Why? Don't ask.
+![HARDWORK] (http://www.relatably.com/m/img/hard-work-memes/8q6le0.jpg)
+<br>Why? beacuse hardwork pays off!.
 
 ## Why?
 I'm interested in how random people can work on something together spontaneously. Let's see how this one works out... Feel free to use Issues, or the Wiki to communicate. Plus I want to help people get a free shirt.
