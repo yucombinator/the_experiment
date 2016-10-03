@@ -22,9 +22,18 @@ Unlike an [earlier](https://github.com/illacceptanything/illacceptanything) simi
 <br>Why? because we appreciate .
 
 ## Why?
-I'm interested in how random people can work on something together spontaneously. Let's see how this one works out... Feel free to use Issues, or the Wiki to communicate. Plus I want to help people get a free shirt.
+I'm interested in how random people can work on something together spontaneously.
+
+![Team spirit](team_spirit.jpg)
+
+Let's see how this one works out... Feel free to use Issues, or the Wiki to communicate. Plus I want to help people get a free shirt.
 
 ##Ooooh! How do I help?
+
+![Afraid to ask](too_afraid_to_ask.jpg)
+
+Don't be this guy.
+
 You can help with the experiment by making a pull request with anything you want to do. <b>Nothing illegal or that might get me arrested please.</b> I'll just accept as many PRs as I can. If you behave yourself (or just ask) then I can add you as an contributor!
 
 
