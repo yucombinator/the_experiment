@@ -1,6 +1,6 @@
 {
   "name": "the_experiment",
-  "description": "A repository where anyone can contribute, and anything goes. Will this repo become a cool app? A terrible website? A dank meme? YOU get to decide the fate of this repository!",
+  "description": "A repository where anyone can contribute, and anything goes.",
   "repository": "https://github.com/icechen1/the_experiment",
   "logo": "https://raw.githubusercontent.com/icechen1/the_experiment/master/icon.png",
   "keywords": ["the", "experiment"]
