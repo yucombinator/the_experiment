@@ -8,6 +8,19 @@
   <title>The experiment</title>
 </head>
 <body>
+<style>
+	#loading{
+		position: absolute;
+		top:0;
+		left:0;
+		width: 100%;
+		height: 100%;
+		overflow: none;
+		display: block;
+		z-index: 10000;
+	}
+</style>
+<img src="loading.gif" id="loading">
 <div class="box">
 <u>WE ARE IN NEED OF FRESH MEMES!</u>
 <br>
@@ -33,6 +46,12 @@ If you want to contribute, fork this project which can be found <a href="https:/
 <img src="snoop.gif" alt="snoopy">
 </div>
 </body>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+      $( "#loading" ).fadeOut(3000);
+});
+</script>
 </html>
 
 >>>>>>> icechen1/master
