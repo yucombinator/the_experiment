@@ -1,10 +1,57 @@
-<!DOCTYPE html>
+/// CSS from old PoodleCorp website (poodlecorp.org [archived July 2016])
+<html>
 <head>
+  <link rel="icon"
+      type="image/png"
+      href="icon.png">
+  <style>.box{width:110px;height:160px;border:1px solid black;}.box2{width:310px;height:160px;border:1px solid black;}#leftsnoop{position:absolute;visibility:visible;left:10px;top:50px;z-index:200;}#rightsnoop{position:absolute;visibility:visible;right:10px;top:50px;z-index:200;}</style>	
+  <title>The experiment</title>
 </head>
 <body>
-	<h1>When you fix the segfault</h1>
-	<img src="420/willsmith/willy.gif"/ style=""><br/>
-	<audio controls autoplay>
-	  <source src="/dank/wombo-combo.mp3" type="audio/mpeg">
-	</audio>
+<style>
+	#loading{
+		position: absolute;
+		top:0;
+		left:0;
+		width: 100%;
+		height: 100%;
+		overflow: none;
+		display: block;
+		z-index: 10000;
+	}
+</style>
+<img src="loading.gif" id="loading">
+<div class="box">
+<u>WE ARE IN NEED OF FRESH MEMES!</u>
+<br>
+<img src="https://camo.githubusercontent.com/203817ea430e2c241e10032441029727cf2be475/687474703a2f2f69322e6b796d2d63646e2e636f6d2f70686f746f732f696d616765732f6e657773666565642f3030312f3030322f3031302f3632652e676966">
+<br>
+If you want to contribute, fork this project which can be found <a href="https://github.com/icechen1/the_experiment">here</a> and make a pull request. 
+</div>
+
+<div class="box2">
+<h1>When you fix the segfault</h1>
+<img src="420/willsmith/willy.gif"><br/>
+<audio controls autoplay>
+<source src="/dank/wombo-combo.mp3" type="audio/mpeg">
+</audio>
+<p>Made with love.</p>
+</div>
+	
+<div id="leftsnoop">
+<img src="snoop.gif" alt="snoopy">
+</div>
+
+<div id="rightsnoop">
+<img src="snoop.gif" alt="snoopy">
+</div>
 </body>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+      $( "#loading" ).fadeOut(3000);
+});
+</script>
+</html>
+
+>>>>>>> icechen1/master

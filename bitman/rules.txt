@@ -1,0 +1,2 @@
+arrows to move.
+space bar to shoot.
