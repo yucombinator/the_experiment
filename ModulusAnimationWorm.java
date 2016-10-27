@@ -2,6 +2,7 @@ public class ModulusAnimationWorm
 {
 	public static void main( String[] args ) throws Exception
 	{
+		System.out.println("Yo, this is intense!");
 		for ( int i=0; i<80; i++ )
 		{
 			if ( i%16 == 0 )
