@@ -8,7 +8,7 @@ A repository where anyone can contribute, and anything goes. Will this repo beco
 
 ![Dank](http://i2.kym-cdn.com/photos/images/newsfeed/001/002/010/62e.gif)
 
-Drop a commit like it's hot!
+Drop a commit like it's hot! Or Not! The choice is up to you, so don't be a fool. 
 
 ![Snoop Dog] (http://i.imgur.com/hkA5GJr.gif)
 
