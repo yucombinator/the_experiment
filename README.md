@@ -6,6 +6,8 @@ A repository where anyone can contribute, and anything goes. Will this repo beco
 
 <b>Edit from the owner: yo srsly let's do something more useful</b>
 
+It's also octoberfest!!!!! contribute here for freee
+
 ![Dank](http://i2.kym-cdn.com/photos/images/newsfeed/001/002/010/62e.gif)
 
 Drop a commit like it's hot! Or Not! The choice is up to you, so don't be a fool. 
